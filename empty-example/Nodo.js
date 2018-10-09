@@ -3,7 +3,8 @@ function Nodo() {
   this.x = -1;
   this.y = -1;
 
-  constructor(px, py) {
+  constructor(px, py) 
+  {
     this.x = px;
     this.y = py;
   }
